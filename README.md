@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Jelle! 👋
 
-<!--
-**jelle-rbn/jelle-rbn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a driven professional combining a **full-time job** with distance studies in **Applied Computer Science** (specializing in Infrastructure Engineering).
+Driven by a passion for IT, I dedicate my free time to mastering system administration, cloud technology, and networking through hands-on projects.
 
-Here are some ideas to get you started:
+🎯 **Goal:** Completing my degree and preparing for my transition into a professional role within the IT infrastructure landscape.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What you'll find on my profile:
+
+* 📌 **Academic Projects:** Hands-on lab work and assignments from my degree.
+* 📌 **Homelab & Side Projects:** My playground for experimenting with self-hosted services, virtualization, networking, and automation.
+* 📌 **Cheatsheets & Documentation:** Quick-reference guides and best practices for Linux, Windows, and various network services.
+
+---
+
+### 📫 Connect with me:
+* **LinkedIn:** [Jelle Robyn](https://www.linkedin.com/in/jelle-robyn-4036a7173)
